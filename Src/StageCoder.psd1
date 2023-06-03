@@ -97,22 +97,22 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        # Tags = @()
+        Tags = @('Demo','Terminal','OnStage','Presentation')
 
         # A URL to the license for this module.
-        # LicenseUri = ''
+        LicenseUri = 'https://github.com/StageCoder/StageCoder-PowerShell/blob/fb0b19653ce90104e3d91babb2321ad239f2ce43/LICENSE'
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/StageCoder/StageCoder-PowerShell'
 
         # A URL to an icon representing this module.
-        # IconUri = ''
+        IconUri = 'https://raw.githubusercontent.com/StageCoder/StageCoderWeb/main/StageCoderWeb/StageCoderWeb/wwwroot/StageCoder.png'
 
         # ReleaseNotes of this module
-        ReleaseNotes = ''
+        ReleaseNotes = 'https://github.com/StageCoder/StageCoder-PowerShell/releases'
 
         # Prerelease string of this module
-        Prerelease = ''
+        Prerelease = ''# Tags applied to this module. These help with module discovery in online galleries.
 
         # Flag to indicate whether the module requires explicit user acceptance for install/update/save
         # RequireLicenseAcceptance = $false
